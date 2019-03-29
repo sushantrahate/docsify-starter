@@ -2,4 +2,4 @@
 
 `npm i docsify-cli -g`
 
-Download and run `docsify serve`
+Download repo and run `docsify serve`
