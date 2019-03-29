@@ -1,3 +1,5 @@
-# Headline
+## Install Docsify
 
-> An awesome project.
+`npm i docsify-cli -g`
+
+> Download and run docsify serve
