@@ -1,4 +1,4 @@
-## Install Docsify
+## Install and Run
 
 `npm i docsify-cli -g`
 
