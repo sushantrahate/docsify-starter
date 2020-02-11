@@ -6,9 +6,10 @@
 
 ## Features
 
-- config added for content folder
-- Search support
-- Emoji support
+- config added for content folder, sidebar
+- Search support added
+- Emoji support added
+- language highlighter added
 
 ## Usage
 

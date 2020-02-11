@@ -49,6 +49,10 @@ create your own `_sidebar.md`
 
 * [Plugins](https://github.com/docsifyjs/awesome-docsify#plugins)
 
+## Language highlight
+
+[prism](https://github.com/PrismJS/prism/tree/gh-pages/components)
+
 ## Markdown Cheat Sheet :sunglasses:
 
 ```markdown
